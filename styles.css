@@ -179,8 +179,8 @@ p a:hover {
 
     /* Estilizando os botões */
     .botoes .botao {
-        width: 50px;
-        height: 50px;
+        width: 80px;
+        height: 80px;
         background-color: #fff;
         border: 2px solid #000;
         display: inline-flex;
