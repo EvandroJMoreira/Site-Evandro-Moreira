@@ -17,9 +17,7 @@ Atualmente estou <b>criando projetos</b> e <b>desenvolvendo habilidades</b> com:
 <a href="http://linkedin.com/in/evandro-josé-viana-moreira-77830468" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkedin"></a>
 <br>
 <h3>Perspectiva:</h3>
-<h5>Desktop</h5>
-<img src="./img/perspectiva.png/" width= 500px>
-<h5>Mobile</h5>
-<img src="./img/perspectiva2.png/" height= 500px>
-<br>
-<a href="https://evandrojmoreira.github.io/Site-Evandro-Moreira/" target="_blank">Clique aqui</a>
+<h5>Desktop - clique na imagem para ser direcionado ao site</h5>
+<a href="https://evandrojmoreira.github.io/Site-Evandro-Moreira/" target="_blank"><img src="./img/perspectiva.png/" width= 500px></a>
+<h5>Mobile - clique na imagem para ser direcionado ao site</h5>
+<a href="https://evandrojmoreira.github.io/Site-Evandro-Moreira/" target="_blank"><img src="./img/perspectiva2.png/" height= 500px></a>
