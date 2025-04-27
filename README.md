@@ -14,7 +14,7 @@ Atualmente estou <b>criando projetos</b> e <b>desenvolvendo habilidades</b> com:
 <a href="https://evandrojmoreira.github.io/Site-Evandro-Moreira/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="logo-website"></a>
 <a href="mailto:evandromoreira.mkt@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="logo-gmail"></a>
 <a href="https://wa.me/5571992200602?text=Fala%2C%20programador." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="logo-whatsapp"></a>
-<a href="http://linkedin.com/in/evandro-josé-viana-moreira-77830468" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkedin"></a>
+<a href="http://linkedin.com/in/evandro-jose-viana-moreira" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkedin"></a>
 <br>
 <h3>Perspectiva:</h3>
 <h5>Desktop - clique na imagem para ser direcionado ao site</h5>
